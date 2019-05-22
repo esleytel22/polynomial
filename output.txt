@@ -1,0 +1,64 @@
+original 1: 1 0 5 1 20 3 9 2 2 1 
+original 2: 2 3 1 9
+cononical 1: 20 3 9 2 7 1 1 0 
+cononical 2: 1 9 2 3 
+sum: 1 9 22 3 9 2 7 1 1 0 
+difference: -1 9 18 3 9 2 7 1 1 0 
+product: 20 12 9 11 7 10 1 9 40 6 18 5 14 4 2 3 
+
+original 1: 2 10 
+original 2: 0 3 1 5
+cononical 1: 2 10 
+cononical 2: 1 5 0 0
+sum: 2 10 1 5 0 0
+difference: 2 10 -1 5 0 0
+product: 2 15 0 0
+
+original 1: 1 1 0 2 0 2 4 5 1 3
+original 2: 1 0 4 3 0 2 3 3 4 4
+cononical 1: 4 5 1 3 1 1 0 0
+cononical 2: 4 4 7 3 1 0 
+sum: 4 5 4 4 8 3 1 1 1 0 
+difference: 4 5 -4 4 -6 3 1 1 -1 0 
+product: 16 9 28 8 4 7 7 6 8 5 7 4 1 3 1 1 0 0
+
+original 1: 3 1 5 0
+original 2: 2 2
+cononical 1: 3 1 5 0 
+cononical 2: 2 2 
+sum: 2 2 3 1 5 0 
+difference: -2 2 3 1 5 0 
+product: 6 3 10 2 
+
+original 1: 3 2
+original 2: -3 2 1 3 5 0 -9 1
+cononical 1: 3 2 
+cononical 2: 1 3 -3 2 -9 1 5 0 
+sum: 1 3 0 0-9 1 5 0 
+difference: -1 3 6 2 9 1 -5 0 
+product: 3 5 -9 4 -27 3 15 2 
+
+original 1: 2 1 3 4 -1 1 2 3 5 0
+original 2: 1 2 2 1 4 0
+cononical 1: 3 4 2 3 1 1 5 0 
+cononical 2: 1 2 2 1 4 0 
+sum: 3 4 2 3 1 2 3 1 9 0 
+difference: 3 4 2 3 -1 2 -1 1 1 0 
+product: 3 6 8 5 16 4 9 3 7 2 14 1 20 0 
+
+original 1: 2 1 -2 1
+original 2: 0 3
+cononical 1: 0 0
+cononical 2: 0 0
+sum: 0 00 0
+difference: 0 00 0
+product: 0 0
+
+original 1: 7 4 8 2 7 3 0 2 2 0 1 7
+original 2: 11 11 11 11 1 1 1 
+cononical 1: 1 7 7 4 7 3 8 2 2 0 
+cononical 2: 22 11 1 1 
+sum: 22 11 1 7 7 4 7 3 8 2 1 1 2 0 
+difference: -22 11 1 7 7 4 7 3 8 2 -1 1 2 0 
+product: 22 18 154 15 154 14 176 13 44 11 1 8 7 5 7 4 8 3 2 1 0 0
+
